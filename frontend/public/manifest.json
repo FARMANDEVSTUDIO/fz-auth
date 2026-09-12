@@ -1,0 +1,19 @@
+{
+  "name": "FZ AUTH",
+  "short_name": "FZ AUTH",
+  "description": "Authentication & Licensing Platform",
+  "start_url": "/dashboard",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#7c3aed",
+  "background_color": "#0a0a12",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
